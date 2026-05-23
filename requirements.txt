@@ -1,0 +1,9 @@
+streamlit
+face_recognition
+opencv-python
+pandas
+numpy
+cmake
+dlib
+av
+streamlit-webrtc
